@@ -4,14 +4,10 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 822-5228-5143'],
   ['+62 856-0038-0823'],
-  ['+62 823-5049-6532'],
-  ['+62 878-1848-7745'],
-  ['6282252285143', 'Yann | TURU', true],
-  ['+6282350496532', 'Yann | Bangun Turu', true],
-  ['+6285600380823', 'Faisal', true],
-  ['+6287818487745', 'Ciaaa', true],
+  ['+62 856-9365-0294'],
+  ['+6285600380823', '🗿', true],
+  ['+6285693650294', 'YUDS PUNYA CNDY', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -39,11 +35,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 SON BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 NEO BOT あ⁩ 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ SON 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ NEO 𝗕𝗢𝗧'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -77,10 +73,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282350496532'
-global.nomorown = '6282252285143'
-global.namebot = 'SON-Bot'
-global.nameown = 'Yann | BANGUN TURU'
+global.nomorbot = '6282153954737'
+global.nomorown = '6285600380823'
+global.namebot = 'NEO BOTZ'
+global.nameown = 'OWNER NEO BOTZ'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
